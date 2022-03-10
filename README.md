@@ -1,8 +1,8 @@
+![github-shazid](https://user-images.githubusercontent.com/101339471/157722502-1d0f6642-1628-44d0-8f05-fccbaff40e01.jpg)
+
 <h1 align="center">Hi there 👋 Welcome to Github </h1>
 
 Hey there 👋
-
-![github-shazid](https://user-images.githubusercontent.com/101339471/157719290-094e46b2-01bb-4663-b951-3b1a859a8d6d.png)
 
 - 🔭 I’m currently working on **Web & Machine Learning**
 
