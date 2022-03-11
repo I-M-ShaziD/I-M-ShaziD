@@ -21,10 +21,10 @@ Hey there 👋
 
 
 ## 🔗 Contact:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)]()
-[![facebook](https://img.shields.io/badge/facebook-fff?style=for-the-badge&logo=facebook&logoColor=black)]()
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)]()
-[![google.developer](https://img.shields.io/badge/google.developer-1DA1F2?style=for-the-badge&logo=google.developer&logoColor=black)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/shazid-hossain/)
+[![facebook](https://img.shields.io/badge/facebook-fff?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/shazidxhossain)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/_ShazidHossain)
+[![google.developer](https://img.shields.io/badge/google.developer-1DA1F2?style=for-the-badge&logo=google.developer&logoColor=black)](https://g.dev/shazid)
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=black)]()
 
 
